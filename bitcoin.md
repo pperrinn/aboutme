@@ -4,7 +4,7 @@ title: Bitcoin History
 permalink: bitcoin
 ---
 
-> Bitcoin (₿) is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries. Transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain. The cryptocurrency was invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto. - Wikipedia
+> Bitcoin (₿) is a decentralized digital currency that operates without a central bank or single administrator. Transactions are conducted peer-to-peer on the bitcoin network without intermediaries. These transactions are verified by network nodes using cryptography and recorded in a public distributed ledger called a blockchain. Bitcoin was created in 2008 by an anonymous individual or group known as Satoshi Nakamoto.
 
 The following two images are all uploaded to Github issue - the first one is inserted using Markdown and the second one is inserted using HTML - either way is fine although I think HTML way gives you more control such as width, style, etc. 
 
