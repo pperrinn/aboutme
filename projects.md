@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projetcs
+title: Projects
 permalink: projects
 ---
 
