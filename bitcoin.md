@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Bitcoin History
-permalink: bitcoin
+title: Projetcs
+permalink: projects
 ---
-
-## Projects
 
 (_Coming Soon_) I am excited to share some of the upcoming projects I am working on. Stay tuned for more details!
 
@@ -19,5 +17,3 @@ This project aims to predict stock market trends using machine learning algorith
 ### Automating Processes Using GCP, Snowflake, and AWS
 
 This project focuses on automating business processes (g.e. ETL datapipelines and reporting) using a combination of Google Cloud Platform (GCP), Snowflake, and Amazon Web Services (AWS). The goal is to enhance efficiency, reduce manual intervention, and streamline operations.
-
----
