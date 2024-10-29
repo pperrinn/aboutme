@@ -21,7 +21,7 @@ nav-menu:
 - text: About
   permalink: about
 - text: Projetcs
-  permalink: bitcoin
+  permalink: projects
 - text: Blog
   permalink: blog
 
