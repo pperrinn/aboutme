@@ -3,7 +3,7 @@ baseurl: "/aboutme" # the name of your github repo
 url: "https://lauragarcia.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Laura García"
+title: "© Laura García Perrín"
 description: A Github Pages (Jekyll) template based on TailwindCSS
 
 # color theme for links
