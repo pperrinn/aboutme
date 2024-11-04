@@ -8,12 +8,12 @@ permalink: about
 
 ## My journey
 
-My journey in software development began during my time at Universidad Politécnica de Madrid (UPM) where I earned a BSc in Data Science & AI, but it’s my dedication to the philosophies of Kaizen and Ikigai that truly shape my professional and personal path. Currently, I'm doing an internship as a cybersecurity specialist at Roche Diagnostics, where I can apply these concepts and continue learning both software and high-level skills.
+My journey in software development began during my time at (Universidad Politécnica de Madrid (UPM))[https://www.upm.es/] where I earned a BSc in (Data Science & AI)[https://www.fi.upm.es/?id=gcdia#:~:text=Caracter%C3%ADsticas%20destacadas%20El%20grado%20en%20Ciencia%20de%20Datos,la%20Ingenier%C3%ADa%20y%20de%20las%20T%C3%A9cnicas%20de%20Negocio.]. Currently, I'm doing an internship as a cybersecurity specialist at (Roche Diagnostics)[https://www.roche.es/sobre-roche/roche-en-espana/roche-diagnostics], where I can apply these concepts and continue learning both software and high-level skills.
 
 ## What I Do
 
-With a foundation in Kaizen and Ikigai, I am currently focused on:
+I am currently focused on:
 
 * **Cybersecurity Risk Governance and Reporting**: Learning about Business Risk Managament Frameworks (BRMFs) using the latest technologies.
-* **Software Engineering Projects**: (coming soon) Developing scalable, maintainable, and efficient software systems and infrastructures applied to stock markets predictions, automating processes, among others.
+* **Software Engineering Projects**: (_coming soon_) Developing scalable, maintainable, and efficient software systems and infrastructures applied to stock markets predictions, automating processes, among others.
 * **Personal Growth**: Continuously learning, improving, and seeking out new challenges to grow both professionally and personally.
