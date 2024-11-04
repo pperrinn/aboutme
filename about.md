@@ -8,7 +8,7 @@ permalink: about
 
 ## My journey
 
-My journey in software development began during my time at (Universidad Politécnica de Madrid (UPM))[https://www.upm.es/] where I earned a BSc in (Data Science & AI)[https://www.fi.upm.es/?id=gcdia#:~:text=Caracter%C3%ADsticas%20destacadas%20El%20grado%20en%20Ciencia%20de%20Datos,la%20Ingenier%C3%ADa%20y%20de%20las%20T%C3%A9cnicas%20de%20Negocio.]. Currently, I'm doing an internship as a cybersecurity specialist at (Roche Diagnostics)[https://www.roche.es/sobre-roche/roche-en-espana/roche-diagnostics], where I can apply these concepts and continue learning both software and high-level skills.
+My journey in software development began during my time at [Universidad Politécnica de Madrid (UPM)](https://www.upm.es/) where I earned a BSc in [Data Science & AI](https://www.fi.upm.es/?id=gcdia#:~:text=Caracter%C3%ADsticas%20destacadas%20El%20grado%20en%20Ciencia%20de%20Datos,la%20Ingenier%C3%ADa%20y%20de%20las%20T%C3%A9cnicas%20de%20Negocio). Currently, I'm doing an internship as a cybersecurity specialist at [Roche Diagnostics](https://www.roche.es/sobre-roche/roche-en-espana/roche-diagnostics), where I can apply these concepts and continue learning both software and high-level skills.
 
 ## What I Do
 
