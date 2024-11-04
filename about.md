@@ -4,7 +4,7 @@ title: About
 permalink: about
 ---
 
-> Kaizen (改善) is a japanese term meaning "_continuous improvement_". It refers to the philosophy of making small, incremental changes every day to achieve greater efficiency and effectiveness. Meanwhile, Ikigai (生き甲斐): is a Japanese concept meaning "_reason for being_". It represents the intersection of what you love, what you are good at, what the world needs, and what you can be paid for, leading to a fulfilling and purposeful life.
+> Kaizen (改善) is a japanese term meaning "_continuous improvement_". It refers to the philosophy of making small, incremental changes every day to achieve greater efficiency and effectiveness. Meanwhile, Ikigai (生き甲斐) is a Japanese concept meaning "_reason for being_". It represents the intersection of what you love, what you are good at, what the world needs, and what you can be paid for, leading to a fulfilling and purposeful life.
 
 ## My journey
 
