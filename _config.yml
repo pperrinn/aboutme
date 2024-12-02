@@ -20,7 +20,7 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Projetcs
+- text: Projects
   permalink: projects
 - text: Blog
   permalink: blog
