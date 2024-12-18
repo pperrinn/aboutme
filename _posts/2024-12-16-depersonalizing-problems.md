@@ -13,4 +13,4 @@ In business, frustrations often feel personal, but they don’t have to. By focu
 
 This small mindset shift can make problem-solving more collaborative and less confrontational.
 
-💡 Want help reframing a problem? Try this:"ChatGPT, help me depersonalize a problem by describing it as an objective issue we can solve together."
+💡 Want help reframing a problem? Try this: "ChatGPT, help me depersonalize a problem by describing it as an objective issue we can solve together."
