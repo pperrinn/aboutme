@@ -8,19 +8,19 @@ Japan offers timeless concepts that help us approach life with clarity and inten
 
 ![Japanese definitions for this post](https://github.com/pperrinn/aboutme/blob/main/assets/img/japanese-terms.png)
 
-🌱 Kaizen (改善) or Continuous Improvement. This philosophy encourages small, consistent steps toward growth. Whether it’s in work or personal life, Kaizen reminds us that transformation happens one small improvement at a time.
+🌱 **Kaizen** (改善) or Continuous Improvement. This philosophy encourages small, consistent steps toward growth. Whether it’s in work or personal life, Kaizen reminds us that transformation happens one small improvement at a time.
 
-💖 Ikigai (生き甲斐) or Reason for Being. It’s about finding the intersection of:
+💖 **Ikigai** (生き甲斐) or Reason for Being. It’s about finding the intersection of:
 
-What you love 💕
-What you’re good at 💪
-What the world needs 🌍
-What you can be paid for 💰
+- What you love 💕
+- What you’re good at 💪
+- What the world needs 🌍
+- What you can be paid for 💰
 
-🧘 Wabi-Sabi (侘寂) or Embrace Imperfection. This aesthetic mindset teaches us to find beauty in imperfection, impermanence, and the natural flow of life. It’s a gentle reminder that flaws are part of what makes things unique.
+🧘 **Wabi-Sabi** (侘寂) or Embrace Imperfection. This aesthetic mindset teaches us to find beauty in imperfection, impermanence, and the natural flow of life. It’s a gentle reminder that flaws are part of what makes things unique.
 
-🎋 Shoshin (初心) or Beginner’s Mind. Approaching life with curiosity and openness, like a beginner, even when you’re experienced. Shoshin helps you stay adaptable and ready to learn.
+🎋 **Shoshin** (初心) or Beginner’s Mind. Approaching life with curiosity and openness, like a beginner, even when you’re experienced. Shoshin helps you stay adaptable and ready to learn.
 
-🌸 Omoiyari (思いやり) or Compassion and Empathy. A way of thinking that emphasizes consideration for others, creating harmonious relationships and communities.
+🌸 **Omoiyari** (思いやり) or Compassion and Empathy. A way of thinking that emphasizes consideration for others, creating harmonious relationships and communities.
 
 ✨ How could you bring Kaizen, Ikigai, or another of these ideas into your life?
