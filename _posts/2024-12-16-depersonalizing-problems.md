@@ -6,7 +6,7 @@ tags: empowerment self-growth
 
 In business, frustrations often feel personal, but they don’t have to. By focusing on the issue (not individuals), we can calm tensions and find better solutions.
 
-🧩 Imagine the problem as a large balloon—it’s the “it” we need to solve, not “you” or “me.” 🗣️ Replace divisive language:
+🧩 Imagine the problem as a large balloon—it’s the _it_ we need to solve, not _you_ or _me_. 🗣️ Replace divisive language:
 
 * You/Me → Use _We_ instead.
 * Keep the conversation about the issue, not the person.
