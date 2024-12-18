@@ -6,8 +6,6 @@ tags: empowerment self-growth
 
 Japan offers timeless concepts that help us approach life with clarity and intention. Here are two key ideas—and a few others—that can inspire your personal and professional growth:
 
-![Japanese definitions for this post](https://github.com/pperrinn/aboutme/blob/main/assets/img/japanese-terms.png)
-
 🌱 **Kaizen** (改善) or Continuous Improvement. This philosophy encourages small, consistent steps toward growth. Whether it’s in work or personal life, Kaizen reminds us that transformation happens one small improvement at a time.
 
 💖 **Ikigai** (生き甲斐) or Reason for Being. It’s about finding the intersection of:
