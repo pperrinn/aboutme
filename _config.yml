@@ -10,8 +10,8 @@ description: A Github Pages (Jekyll) template based on TailwindCSS
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Code Couture
-author-bio: Stylish Solutions in Data Science, AI, and Cyber Security  # change to false to hide
+author: Laura García Perrín
+author-bio: AI engineer / Data Scientist / Software Developer  # change to false to hide
 author-image: unnamed.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -31,7 +31,7 @@ facebook: false
 instagram: false
 github: https://github.com/pperrinn
 linkedin: https://www.linkedin.com/in/laura-g-2a067528b/
-medium: lgperrin
+medium: false
 google-scholar: false
 email: false
 # footer information
